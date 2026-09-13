@@ -1,9 +1,5 @@
 <div align="center">
   <!-- Header animato typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Antonio+👋;Computer+Engineer;AIDE+Master+Student+@+UniPisa;ML,+IoT+%26+Data+Engineering+Enthusiast" alt="Typing SVG" />
-  </a>
-
   <p align="center">
     🎓 Computer Engineer | MSc in Artificial Intelligence & Data Engineering @ <b>Università di Pisa</b>
   </p>

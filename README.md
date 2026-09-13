@@ -36,19 +36,6 @@
   <img src="https://skillicons.dev/icons?i=python,kotlin,c,cpp,bash,linux,git,github,docker,postgres,mysql,pytorch,scikitlearn,fastapi,html,css" alt="My Skills" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.
-  app/api?username=apepe11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Antonio's GitHub Stats" height="175" />  
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-
-  langs/?username=apepe11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="175" />             
-    </div>
-
----
-
 ### 💡 Featured Projects
 
 | Project | Highlights | Tech Stack |
